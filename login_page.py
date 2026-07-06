@@ -1,6 +1,6 @@
 from selenium import webdriver
 
-from Demo_Tricentis_Framework.pages.base_page import BasePage
+from pages.base_page import BasePage
 
 class LoginPage(BasePage):
 
